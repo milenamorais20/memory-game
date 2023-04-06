@@ -18,7 +18,7 @@
 
 [![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.pt/intl/pt-PT/chrome/)
 
-<h3 id="acessar-projeto"><a href="https://jovial-semolina-6ec2a9.netlify.app/">📁 Acessar Projeto<a/></h3>
+<h3 id="acessar-projeto"><a href="https://hilarious-sunburst-42a061.netlify.app/">📁 Acessar Projeto<a/></h3>
 
 
 <h3 id="instalacao">🛠️ Instalação</h3>
@@ -44,4 +44,4 @@ Não há necessidade de instalação.
 
 
 <h3 id="preview">🎥 Preview</h3>
-<img src="./video/video.gif" width="600px">
+<img src="./assets/video/video.gif" width="600px">
