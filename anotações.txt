@@ -1,0 +1,4 @@
+-array com as techs;
+-função de criar peças - usar o flatmap para desmenbrar o array
+-função de criar pares
+-função de criar id
